@@ -2,7 +2,7 @@
 
 I like to solve problems and build stuff that can help other people.
 
-Currently I'm a Software Engineer at [Mandic Cloud Solutions](https://www.mandic.com.br/) and pursuing my bachelor degree in Computer Science at [Federal University of ABC (UFABC)](http://www.ufabc.edu.br/). 
+Currently I'm a Software Engineer at [Banco Itaú](https://www.itau.com.br/) and pursuing my bachelor degree in Computer Science at [Federal University of ABC (UFABC)](http://www.ufabc.edu.br/). 
 
 <!--
 **BryanCruz/BryanCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
