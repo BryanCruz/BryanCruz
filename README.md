@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-I like to solve problems and build stuff that can help other people.
-
-Currently I'm a Software Engineer at [Amazon](https://amazon.com/). I have a bachelor's degree in Science and Technology and am pursuing my bachelor degree in Computer Science at [Federal University of ABC (UFABC)](http://www.ufabc.edu.br/). 
+I'm a Software Engineer, have a bachelor's degree in Science and Technology and pursuing my bachelor degree in Computer Science, both at [Federal University of ABC (UFABC)](http://www.ufabc.edu.br/). 
 
 <!--
 **BryanCruz/BryanCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
